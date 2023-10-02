@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600079555953",
+    "project_id": "sounds-for-sleep-and-relaxing",
+    "storage_bucket": "sounds-for-sleep-and-relaxing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600079555953:android:294484b20c553ee7faead0",
+        "android_client_info": {
+          "package_name": "com.example.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600079555953-304mrn17sh6ldfqqvi6f1id7kks9bpnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQ7K-W63z-4zos-kzWzfVaNdFnvF3clY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600079555953-304mrn17sh6ldfqqvi6f1id7kks9bpnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
